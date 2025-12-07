@@ -1,4 +1,5 @@
 
+
 :root {
   --background: #0d1117;
   --foreground: #c9d1d9;
@@ -29,7 +30,6 @@ body {
   min-height: 100vh;
 }
 
-/* Header */
 .header {
   border-bottom: 1px solid var(--border);
   background-color: var(--background);
@@ -87,7 +87,6 @@ body {
   font-weight: 500;
 }
 
-/* Main Container */
 .main-container {
   max-width: 1024px;
   margin: 0 auto;
